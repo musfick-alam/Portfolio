@@ -10181,6 +10181,7 @@ body {
     transition: none;
     padding: 2rem 1.5rem;
     color: rgb(255, 255, 255);
+    font-weight: 800;
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
